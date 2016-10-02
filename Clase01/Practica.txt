@@ -1,0 +1,15 @@
+Desarrollar una aplicación
+que permita calcular el 
+importe de una venta.
+
+Los datos son:
+
+- Precio del artículo (incluye IGV)
+- Cantidad
+
+Se debe calcular:
+
+- El importe
+- El impuesto
+- El total
+
